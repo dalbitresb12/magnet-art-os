@@ -8,11 +8,11 @@
         <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.dalbitresb</groupId>
-    <artifactId>SpringStarter</artifactId>
+    <groupId>package art.magnet.partner.u202015652</groupId>
+    <artifactId>si652ebu202015652</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringStarter</name>
-    <description>Spring Web Application starter app</description>
+    <name>si652ebu202015652</name>
+    <description>si652ebu202015652</description>
     <properties>
         <java.version>17</java.version>
     </properties>
