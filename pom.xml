@@ -8,7 +8,7 @@
         <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>package art.magnet.partner.u202015652</groupId>
+    <groupId>art.magnet.partner.u202015652</groupId>
     <artifactId>si652ebu202015652</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>si652ebu202015652</name>
